@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  " **Can you solve it?**"
-date:   2017-04-08 19:10:49 +0000
+title:  " Can you solve it?"
+date:   2017-04-08 15:10:49 -0400
 ---
 
 A brain teaser for you......
