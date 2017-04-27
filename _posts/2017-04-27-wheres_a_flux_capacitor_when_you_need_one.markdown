@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Where's a flux capacitor when you need one?"
-date:   2017-04-27 21:58:44 +0000
+date:   2017-04-27 17:58:45 -0400
 ---
 
-#### (Or better ways to manage your time)
+### (Or better ways to manage your time)
 
  I am currently a month into my coursework here on FlatIron. I am finding it increasingly hard to devote as much time to this school as possible. I work full-time and also enjoy having some semblance of a social life. So I looked into ways to increase the amount of time i spend on important stuff and decrease down-time. It is much easier to just sit at my computer and queue up a game of *Hearthstone* or *League of Legends*, but it is not always the right decision.
 
@@ -14,8 +14,7 @@ The sad fact is that most people spend most of their time doing things they not 
 
 Avoid this trap by first taking time to think deeply about what matters most to you in life. Then make a list outlining your core values and what you consider to be your priorities and goals in life. If you do not start deciding clearly where your priorities lie, you will never be able to select the right tasks to focus on and which ones to avoid in the first place.
 
-**Do not have a big discrepancy between your core values and your activities.
-**
+**Do not have a big discrepancy between your core values and your activities.**
 
 There can be no success, or lasting happiness, if your daily activities are not aligned with your core values.
 
