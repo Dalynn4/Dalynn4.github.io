@@ -1,15 +1,14 @@
 # Site settings
+author: Randall Robinson
 title: This might take a while...
 header-img: img/home-bg.png
 email: keith_adams007@yahoo.com
-copyright_name: Dalynn4
+copyright_name: Randall Robinson
 description: > # this means to ignore newlines until "baseurl:"
   An attempt at being clever!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dalynn4
-learn_profile: Dalynn4
-email_username: keith_adams007@yahoo.com
 
 # Build settings
 markdown: kramdown
